@@ -1,4 +1,4 @@
-# Gurobi 사용 예시
+# Gurobi 사용 예시
 
 * Traveling Salesman Problem
 * Vehicle Routing Problem
